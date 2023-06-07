@@ -1,0 +1,62 @@
+*{
+	max-width: 100%;
+	box-sizing: border-box;
+}
+
+header{
+	background: #0020F4;
+    padding: 27px 205px 270px 240px;
+  	height: 388px;
+  	width: 1920px;
+ }
+
+.logo{
+	height: 65px;
+	display: inline-block;
+	object-fit: fill;
+}
+
+ul{
+	list-style: none;
+	text-decoration: none;
+}
+
+.links{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+.link{
+	text-decoration: none;
+	padding: 37px;
+	display: inline-block;
+	color: #ffffff;
+	margin-right: 18px;
+}
+
+.main_img{
+	margin-top: -150px;
+	height: 600px;
+	weight: 1195px;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+    object-fit: fill;
+}
+
+.office_pictures{
+	height: 219px;
+	weight: 219px;
+}
+.Par{
+	text-align: center;
+	max-width:50%;
+	margin: auto;
+}
+
+button{
+	text-align: center;
+}
